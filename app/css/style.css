@@ -1,0 +1,21 @@
+html, body
+{
+	margin: 0px;
+	width: 100%;
+	height:100%;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.banner
+{
+	height: 80px;
+	background-color: #006888;
+	overflow: hidden;
+}
+
+.mainContainer
+{
+	color: #006888;
+	padding: 50px;
+}
+
